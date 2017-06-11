@@ -1,0 +1,73 @@
+.thick-green-border {
+  border-color: #1C8B85;
+  border-width: 25px;
+  border-style: solid;
+  border-image: url(http://www.velectric.com/wp-content/uploads/2016/07/SAFECO-Field-3rd-Base.jpg) 25 25 round;
+}
+h1 {
+  font-size: 80px;
+  color:  #003166;
+  text-align: center
+}
+html {
+  height: 100%;
+  text-align: center;
+}
+body {
+   height: 100%;
+   width: 100%;
+   margin-left: 20px;
+   margin-right: auto;
+   background-color: #1C8B85;
+}
+
+header {
+    background-color:;
+    padding:5px;
+    font-size:;
+    display: block;
+    width: 790px;
+    margin-left: auto;
+    margin-right: auto;
+    font-style: oblique;
+    font-family: monochrome;
+}
+nav {
+    line-height:;
+    background-color:;
+    width:125px;
+    display: inline-block;
+    vertical-align: top;
+    font-family: monochrome;
+    font-style: oblique;
+}
+nav ul {
+    list-style-type: none;
+}
+a {
+    color: ;
+}
+section {
+    width: 516px;
+    display: inline-block;
+}
+aside {
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:#C0C0C0;
+  font-size: ;
+}
+aside ul {
+    list-style-type: none;
+}
+footer {
+    width: 790px;
+    background-color:;
+    text-align:;
+    padding:5px;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    opacity: .5;
+}

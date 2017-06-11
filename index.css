@@ -1,0 +1,80 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+       background-color: #CFFFE4;
+    }
+
+    header {
+        border-radius: 15px 50px 30px;
+        background-color: 7cfc00;
+        padding:5px;
+        font-style: italic;
+        border: 5px solid #000000;
+        display: block;
+        width: 790px;
+    }
+    nav {
+        line-height:;
+        background-color:;
+        width:140px;
+        display: inline-block;
+        vertical-align: top;
+        font-size: 18px;
+    }
+    nav ul {
+        border: 5px solid #000000;
+        background-color: 7cfc00;
+        border-radius: 30px 50px 15px;
+        list-style-type: none;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+        border: 5px solid #000000
+        font-size: 14px;
+        padding: 10px;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    article {
+      background-color: #AAE2AA;
+      border-radius: 15px;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: inherit;
+        background-color: #000000;
+        color: #FFFFFF;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
+    #mariners {
+      border: 5px solid #1C8B85;
+    }
+    #seahawks {
+      border: 5px solid #001433;
+    }
+    #sounders {
+      border: 5px solid #B9F070;
+    }
+    .resize {
+      height: auto;
+      width: 100%;
+    }
